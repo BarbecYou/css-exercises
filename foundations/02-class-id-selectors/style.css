@@ -1,0 +1,19 @@
+.normal_class {
+    background-color: #ff8080;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#no2 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.cooler_class {
+    font-size: 24px;
+}
+
+#no4 {
+    background-color: #66ff33;
+    font-size: 24px;
+    font-weight: bold;
+}
